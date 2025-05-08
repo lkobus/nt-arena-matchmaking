@@ -48,7 +48,7 @@ These terms may be updated at any time without prior notice. It is the user's re
 
 **7. Contact**
 
-For questions, suggestions, or reports of misuse, please contact us through the official bot server or send a direct message to the administrator: [your user/tag on Discord or email, if you want to disclose it]
+For questions, suggestions, or reports of misuse, please contact us through the official bot server or send a direct message to the administrator: @lkkobus
 
 **8. Discord Terms**
 
