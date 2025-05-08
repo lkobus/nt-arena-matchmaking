@@ -1,4 +1,4 @@
-Privacy Policy for the Caith Sith Bot (NT Arena)
+## Privacy Policy for the Caith Sith Bot (NT Arena)
 This privacy policy describes how the Caith Sith bot (hereinafter referred to as "the Bot") collects, uses, and protects user information within the NT Arena server on Discord.
 
 1. Information Collected
